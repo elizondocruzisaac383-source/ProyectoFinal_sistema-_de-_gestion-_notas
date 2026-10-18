@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Proyecto.36e6028a\\x64\\Debug\\Proyectofinal_Gestion_de_notas_Jefferson_Isaac.obj",
+            "outputs": [
+                "Proyecto.36e6028a\\x64\\Debug\\Proyectofinal_Gestion_de_notas_Jefferson_Isaac.cpp.obj.dt.module.json",
+                "Proyecto.36e6028a\\x64\\Debug\\Proyectofinal_Gestion_de_notas_Jefferson_Isaac.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

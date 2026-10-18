@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Proyectofinal_Gestion_de_notas_Jefferson_Isaac.vcxproj" />
+</Solution>
