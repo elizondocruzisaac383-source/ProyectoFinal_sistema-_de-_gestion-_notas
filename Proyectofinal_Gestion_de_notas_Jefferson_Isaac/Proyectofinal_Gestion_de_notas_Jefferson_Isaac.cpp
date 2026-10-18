@@ -1,6 +1,6 @@
 // Proyectofinal_Gestion_de_notas_Jefferson_Isaac.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-
+gdfewgwegrgdfewtg
 #include <iostream>
 
 int main()
